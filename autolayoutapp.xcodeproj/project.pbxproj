@@ -13,6 +13,7 @@
 		8CB014772717970D008812AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CB014752717970D008812AA /* Main.storyboard */; };
 		8CB0147927179710008812AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0147827179710008812AA /* Assets.xcassets */; };
 		8CB0147C27179710008812AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0147A27179710008812AA /* LaunchScreen.storyboard */; };
+		8CB014842717B32B008812AA /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB014832717B32B008812AA /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8CB0147827179710008812AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CB0147B27179710008812AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8CB0147D27179710008812AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CB014832717B32B008812AA /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../../../../Downloads/alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8CB0147827179710008812AA /* Assets.xcassets */,
 				8CB0147A27179710008812AA /* LaunchScreen.storyboard */,
 				8CB0147D27179710008812AA /* Info.plist */,
+				8CB014832717B32B008812AA /* alarm_sound.mp3 */,
 			);
 			path = autolayoutapp;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				8CB0147C27179710008812AA /* LaunchScreen.storyboard in Resources */,
 				8CB0147927179710008812AA /* Assets.xcassets in Resources */,
+				8CB014842717B32B008812AA /* alarm_sound.mp3 in Resources */,
 				8CB014772717970D008812AA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
